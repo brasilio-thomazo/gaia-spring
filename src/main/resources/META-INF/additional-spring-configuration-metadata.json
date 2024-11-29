@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "kubernetes.namespace",
+  "type": "java.lang.String",
+  "description": "the kubernetes default namespace"
+}]}
